@@ -23,3 +23,7 @@ function fareDoubler(value) {
 function fareTripler(value) {
   return value * 3
 }
+
+function fetchSpecifiedDrivers(arr, fun) {
+  
+}
