@@ -25,5 +25,5 @@ function fareTripler(value) {
 }
 
 function fetchSpecifiedDrivers(arr, fun) {
-  
+  return fun(arr)
 }
