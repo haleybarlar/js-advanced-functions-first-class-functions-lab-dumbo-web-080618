@@ -15,5 +15,5 @@ const fareQuintupler = function(value) {
 }
 
 function createFareMultiplier(value) {
-  fareQuintupler(value)
+  return fareQuintupler(value)
 }
