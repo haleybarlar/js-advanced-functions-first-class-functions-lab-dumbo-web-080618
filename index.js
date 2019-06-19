@@ -24,6 +24,6 @@ function fareTripler(value) {
   return value * 3
 }
 
-function fetchSpecifiedDrivers(arr, fun) {
+function fetchSpecifiedDrivers(arr, func) {
   return func(arr)
 }
