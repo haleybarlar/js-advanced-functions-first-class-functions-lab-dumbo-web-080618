@@ -10,7 +10,7 @@ const returnLastTwoDrivers = function() {
 
 selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
 
-const fareQuintupler = function(value) {
+function fareQuintupler(value) {
   return value * value
 }
 
