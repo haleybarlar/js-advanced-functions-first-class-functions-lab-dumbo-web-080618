@@ -1,5 +1,5 @@
 const drivers = ['Sally', 'Bob', 'Freddy', 'Claudia'];
 
-function const returnFirstTwoDrivers() {
+function returnFirstTwoDrivers() {
   return drivers.slice(0,2)
 }
